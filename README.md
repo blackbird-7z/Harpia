@@ -4,14 +4,14 @@ Um programa que tem como objetivo simplificar o gerenciamento do Samba Linux, tr
 ## Funções
 
 * Fácil de usar, com um sistema de menu inspirado em jogos.
-* Adicionar usuário com criação automática de senha.
-* Exclusão, bloqueio e desbloqueio de usuários com auxílio de Autocomplete na digitação.
-* Alteração de senha com criação automática de novas senhas.
-* Listagem de todos os usuários do servidor.
-* Limpar tela.
-* Registro detalhado de todas as atividades realizadas, incluindo data, hora e função executada.
-* Consulta dos Logs.
-* Verificar todas as conexões ativas no servidor.
+* Adiciona usuários com criação automática de senha.
+* Exclui, bloqueia e desbloqueia usuários com auxílio de Autocomplete na digitação.
+* Altera senha com criação automática de novas senhas.
+* Lista todos os usuários do servidor.
+* Limpa tela.
+* Registra todas as atividades realizadas, incluindo data, hora e função executada.
+* Consulta das atividades realizadas (Logs).
+* Verifica todas as conexões ativas no servidor.
   
 
 ## Screenshot
