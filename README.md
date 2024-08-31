@@ -1,5 +1,5 @@
 # Harpia
-Um programa que tem como objetivo simplificar o gerenciamento do Samba Linux, trazendo mais eficiência e liberdade.
+Um programa que tem como objetivo simplificar o gerenciamento do Samba Linux, trazendo mais eficiência e liberdade para os administradores de redes.
 
 ## Funções
 
@@ -12,6 +12,7 @@ Um programa que tem como objetivo simplificar o gerenciamento do Samba Linux, tr
 * Registro detalhado de todas as atividades realizadas, incluindo data, hora e função executada.
 * Consulta dos Logs.
 * Verificar todas as conexões ativas no servidor.
+  
 
 ## Screenshot
 Menu principal.
