@@ -23,7 +23,7 @@ Menu principal.
 
 1. Faça o clone deste repositório para a sua máquina local com o comando:
 ``` ruby
-git clone https://github.com/hyagodejesus/Harpia.git
+git clone https://github.com/blackbird-7z/Harpia.git
 ```
 2. Dê permissão de execução ao arquivo `harpia` com o comando: 
  ```ruby
